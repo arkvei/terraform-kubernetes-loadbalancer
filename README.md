@@ -1,4 +1,4 @@
-# Hands of Labs Practice: Kubernetes Load Balancer with Terraform
+# Terraform Kubernetes Load Balancer
 
 This project demonstrates deploying a **Kubernetes cluster** on Google Cloud using **Terraform**, along with a **LoadBalancer service** running a sample application.
 
