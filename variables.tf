@@ -13,5 +13,5 @@ variable "location" {
 variable "network_name" {
   type        = string
   description = "The name of the network and cluster."
-  default     = "hand-of-labs-cluster"
+  default     = "hands-of-labs-cluster"
 }

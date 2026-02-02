@@ -1,4 +1,4 @@
-# Monnd Hand of Labs Practice: Kubernetes Load Balancer with Terraform
+# Hands of Labs Practice: Kubernetes Load Balancer with Terraform
 
 This project demonstrates how to provision a Kubernetes cluster and deploy a Load Balancer service using Terraform. It is part of my technical practice to showcase experience with Infrastructure as Code (IaC) and cloud orchestration.
 
