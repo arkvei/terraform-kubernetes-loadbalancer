@@ -1,0 +1,13 @@
+# Terraform generated files
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+
+# Kubernetes kubeconfig
+kubeconfig
+
+# Logs and sensitive files
+*.log
+*.pem
+*.key
